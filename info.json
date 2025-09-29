@@ -1,0 +1,572 @@
+{
+  "kind": "customsearch#search",
+  "url": {
+    "type": "application/json",
+    "template": "https://www.googleapis.com/customsearch/v1?q={searchTerms}&num={count?}&start={startIndex?}&lr={language?}&safe={safe?}&cx={cx?}&sort={sort?}&filter={filter?}&gl={gl?}&cr={cr?}&googlehost={googleHost?}&c2coff={disableCnTwTranslation?}&hq={hq?}&hl={hl?}&siteSearch={siteSearch?}&siteSearchFilter={siteSearchFilter?}&exactTerms={exactTerms?}&excludeTerms={excludeTerms?}&linkSite={linkSite?}&orTerms={orTerms?}&dateRestrict={dateRestrict?}&lowRange={lowRange?}&highRange={highRange?}&searchType={searchType}&fileType={fileType?}&rights={rights?}&imgSize={imgSize?}&imgType={imgType?}&imgColorType={imgColorType?}&imgDominantColor={imgDominantColor?}&alt=json"
+  },
+  "queries": {
+    "request": [
+      {
+        "title": "Google Custom Search - 'who is the founder of Approval AI (https://www.getapproval.ai/)?",
+        "totalResults": "521000",
+        "searchTerms": "'who is the founder of Approval AI (https://www.getapproval.ai/)?",
+        "count": 10,
+        "startIndex": 1,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f6ec47bacc6c94ec6"
+      }
+    ],
+    "nextPage": [
+      {
+        "title": "Google Custom Search - 'who is the founder of Approval AI (https://www.getapproval.ai/)?",
+        "totalResults": "521000",
+        "searchTerms": "'who is the founder of Approval AI (https://www.getapproval.ai/)?",
+        "count": 10,
+        "startIndex": 11,
+        "inputEncoding": "utf8",
+        "outputEncoding": "utf8",
+        "safe": "off",
+        "cx": "f6ec47bacc6c94ec6"
+      }
+    ]
+  },
+  "context": {
+    "title": "founders"
+  },
+  "searchInformation": {
+    "searchTime": 0.336725,
+    "formattedSearchTime": "0.34",
+    "totalResults": "521000",
+    "formattedTotalResults": "521,000"
+  },
+  "items": [
+    {
+      "kind": "customsearch#result",
+      "title": "Approval AI: AI-Powered Home Loan & Mortgage Assistance",
+      "htmlTitle": "\u003cb\u003eApproval AI\u003c/b\u003e: \u003cb\u003eAI\u003c/b\u003e-Powered Home Loan &amp; Mortgage Assistance",
+      "link": "https://www.getapproval.ai/",
+      "displayLink": "www.getapproval.ai",
+      "snippet": "Approval AI uses artificial intelligence to simplify your mortgage journey. Fill one form, let AI shop lenders, negotiate rates, and enjoy a spam-free ...",
+      "htmlSnippet": "\u003cb\u003eApproval AI\u003c/b\u003e uses \u003cb\u003eartificial intelligence\u003c/b\u003e to simplify your mortgage journey. Fill one form, let \u003cb\u003eAI\u003c/b\u003e shop lenders, negotiate rates, and enjoy a spam-free&nbsp;...",
+      "formattedUrl": "https://www.getapproval.ai/",
+      "htmlFormattedUrl": "https://www.get\u003cb\u003eapproval\u003c/b\u003e.\u003cb\u003eai\u003c/b\u003e/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbbcH74gBnhU-SEaLWojKv6UCWWVkR83ZjqSrwCSmpX2uSy_8yGmuGXA&s",
+            "width": "242",
+            "height": "209"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://getapproval.ai/white_illustration.svg",
+            "theme-color": "#ffffff",
+            "og:image:width": "800",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Approval AI",
+            "apple-mobile-web-app-title": "Approval AI",
+            "og:description": "Approval AI uses artificial intelligence to simplify your mortgage journey. Fill one form, let AI shop lenders, negotiate rates, and enjoy a spam-free process. Find your best home loan today!",
+            "twitter:creator": "@approval_ai",
+            "twitter:image": "https://getapproval.ai/white_illustration.svg",
+            "background-color": "#ffffff",
+            "twitter:image:alt": "Approval AI: AI-Powered Home Loan & Mortgage Assistance - Visual Representation",
+            "twitter:site": "@approval_ai",
+            "msapplication-tilecolor": "#ffffff",
+            "og:background": "#ffffff",
+            "og:image:alt": "Approval AI: AI-Powered Home Loan & Mortgage Assistance - Visual Representation",
+            "og:type": "website",
+            "twitter:title": "Approval AI: AI-Powered Home Loan & Mortgage Assistance",
+            "og:title": "Approval AI: AI-Powered Home Loan & Mortgage Assistance",
+            "og:image:height": "600",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Approval AI uses artificial intelligence to simplify your mortgage journey. Fill one form, let AI shop lenders, negotiate rates, and enjoy a spam-free process. Find your best home loan today!",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "format-detection": "telephone=no, date=no, address=no, email=no, url=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.getapproval.ai/_next/image?url=%2Fimages%2Fillustrations%2Fillustration.png&w=1200&q=75"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Approval AI | LinkedIn",
+      "htmlTitle": "\u003cb\u003eApproval AI\u003c/b\u003e | LinkedIn",
+      "link": "https://www.linkedin.com/company/approval-ai",
+      "displayLink": "www.linkedin.com",
+      "snippet": "Jul 3, 2025 ... And actually useful. Because if AI can write poems and drive cars, it can probably help you get the best home loan. Website: https://getapproval ...",
+      "htmlSnippet": "Jul 3, 2025 \u003cb\u003e...\u003c/b\u003e And actually useful. Because if \u003cb\u003eAI\u003c/b\u003e can write poems and drive cars, it can probably help you get the best home loan. Website: \u003cb\u003ehttps\u003c/b\u003e://\u003cb\u003egetapproval\u003c/b\u003e&nbsp;...",
+      "formattedUrl": "https://www.linkedin.com/company/approval-ai",
+      "htmlFormattedUrl": "https://www.linkedin.com/company/\u003cb\u003eapproval\u003c/b\u003e-\u003cb\u003eai\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3rXy1W7-vDkj-5YLa4NZkuchMisnPlwIkGn1oAUvP8MG4NWQvJgMwqV_3&s",
+            "width": "200",
+            "height": "200"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://media.licdn.com/dms/image/v2/D560BAQHhvCcVIW2jaA/company-logo_200_200/B56ZYmKBHGGoAI-/0/1744396882670/approval_ai_logo?e=2147483647&v=beta&t=PeUCoTvhn9bjGm-MrVyTPqxo3a6luqOXSjTrQzMIWJA",
+            "og:type": "article",
+            "twitter:card": "summary",
+            "twitter:title": "Approval AI | LinkedIn",
+            "clientsideingraphs": "1",
+            "al:ios:app_name": "LinkedIn",
+            "linkedin:pagetag": "noncanonical_subdomain=control",
+            "og:title": "Approval AI | LinkedIn",
+            "al:android:package": "com.linkedin.android",
+            "pagekey": "p_org_guest_company_overview",
+            "bingbot": "max-image-preview:large, noarchive",
+            "locale": "en_US",
+            "al:ios:url": "https://www.linkedin.com/company/approval-ai",
+            "og:description": "Approval AI | 1,247 followers on LinkedIn. AI that shops your mortgage, negotiates it, and wins | We’re using AI to fix the worst part of buying a home: the mortgage.\n\nApproval AI is an intelligent, human-friendly way to navigate home loans, especially for first-time buyers. We help you compare offers, understand your options, and avoid the spammy mess most platforms throw at you.",
+            "al:ios:app_store_id": "288429040",
+            "twitter:image": "https://media.licdn.com/dms/image/v2/D560BAQHhvCcVIW2jaA/company-logo_200_200/B56ZYmKBHGGoAI-/0/1744396882670/approval_ai_logo?e=2147483647&v=beta&t=PeUCoTvhn9bjGm-MrVyTPqxo3a6luqOXSjTrQzMIWJA",
+            "al:android:url": "https://www.linkedin.com/company/approval-ai",
+            "twitter:site": "@linkedin",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "Approval AI | 1,247 followers on LinkedIn. AI that shops your mortgage, negotiates it, and wins | We’re using AI to fix the worst part of buying a home: the mortgage.\n\nApproval AI is an intelligent, human-friendly way to navigate home loans, especially for first-time buyers. We help you compare offers, understand your options, and avoid the spammy mess most platforms throw at you.",
+            "og:url": "https://www.linkedin.com/company/approval-ai",
+            "al:android:app_name": "LinkedIn"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://media.licdn.com/dms/image/v2/D560BAQHhvCcVIW2jaA/company-logo_200_200/B56ZYmKBHGGoAI-/0/1744396882670/approval_ai_logo?e=2147483647&v=beta&t=PeUCoTvhn9bjGm-MrVyTPqxo3a6luqOXSjTrQzMIWJA"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Approval AI: AI-Powered Home Loan & Mortgage Assistance",
+      "htmlTitle": "\u003cb\u003eApproval AI\u003c/b\u003e: \u003cb\u003eAI\u003c/b\u003e-Powered Home Loan &amp; Mortgage Assistance",
+      "link": "https://www.getapproval.ai/founders",
+      "displayLink": "www.getapproval.ai",
+      "snippet": "Arjun is the co-founder & CEO of Approval AI, building AI tools he wish existed after his painful home-buying journey. Prior to founding the company, ...",
+      "htmlSnippet": "Arjun is the co-\u003cb\u003efounder\u003c/b\u003e &amp; \u003cb\u003eCEO of Approval AI\u003c/b\u003e, building \u003cb\u003eAI\u003c/b\u003e tools he wish existed after his painful home-buying journey. Prior to \u003cb\u003efounding\u003c/b\u003e the company,&nbsp;...",
+      "formattedUrl": "https://www.getapproval.ai/founders",
+      "htmlFormattedUrl": "https://www.get\u003cb\u003eapproval\u003c/b\u003e.\u003cb\u003eai\u003c/b\u003e/\u003cb\u003efounder\u003c/b\u003es",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_y4fo_umzBNfQfGXRuzh64j1o4MqvmtyAJK80Vqrqn-HYIcRdzg6xc6RS&s",
+            "width": "225",
+            "height": "225"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://getapproval.ai/white_illustration.svg",
+            "theme-color": "#ffffff",
+            "og:image:width": "800",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Approval AI",
+            "apple-mobile-web-app-title": "Approval AI",
+            "og:description": "Approval AI uses artificial intelligence to simplify your mortgage journey. Fill one form, let AI shop lenders, negotiate rates, and enjoy a spam-free process. Find your best home loan today!",
+            "twitter:creator": "@approval_ai",
+            "twitter:image": "https://getapproval.ai/white_illustration.svg",
+            "background-color": "#ffffff",
+            "twitter:image:alt": "Approval AI: AI-Powered Home Loan & Mortgage Assistance - Visual Representation",
+            "twitter:site": "@approval_ai",
+            "msapplication-tilecolor": "#ffffff",
+            "og:background": "#ffffff",
+            "og:image:alt": "Approval AI: AI-Powered Home Loan & Mortgage Assistance - Visual Representation",
+            "og:type": "website",
+            "twitter:title": "Approval AI: AI-Powered Home Loan & Mortgage Assistance",
+            "og:title": "Approval AI: AI-Powered Home Loan & Mortgage Assistance",
+            "og:image:height": "600",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Approval AI uses artificial intelligence to simplify your mortgage journey. Fill one form, let AI shop lenders, negotiate rates, and enjoy a spam-free process. Find your best home loan today!",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "format-detection": "telephone=no, date=no, address=no, email=no, url=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.getapproval.ai/_next/image?url=%2Fimages%2Fphotos%2Farjun.jpeg&w=3840&q=75"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Approval AI: One-click mortgage: AI shops, negotiates, and handles ...",
+      "htmlTitle": "\u003cb\u003eApproval AI\u003c/b\u003e: One-click mortgage: \u003cb\u003eAI\u003c/b\u003e shops, negotiates, and handles ...",
+      "link": "https://www.ycombinator.com/companies/approval-ai",
+      "displayLink": "www.ycombinator.com",
+      "snippet": "https://getapproval.ai. One-click mortgage: AI shops, negotiates, and handles ... Arjun is the co-founder & CEO of Approval AI, building AI tools he ...",
+      "htmlSnippet": "\u003cb\u003ehttps\u003c/b\u003e://\u003cb\u003egetapproval\u003c/b\u003e.\u003cb\u003eai\u003c/b\u003e. One-click mortgage: \u003cb\u003eAI\u003c/b\u003e shops, negotiates, and handles ... Arjun is the co-\u003cb\u003efounder\u003c/b\u003e &amp; \u003cb\u003eCEO of Approval AI\u003c/b\u003e, building \u003cb\u003eAI\u003c/b\u003e tools he&nbsp;...",
+      "formattedUrl": "https://www.ycombinator.com/companies/approval-ai",
+      "htmlFormattedUrl": "https://www.ycombinator.com/companies/\u003cb\u003eapproval\u003c/b\u003e-\u003cb\u003eai\u003c/b\u003e",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4et3oWeMH52bkA7O07uwr7HE4XgefMUIZWnLcbLurOnR4z-hKVAxRlIA&s",
+            "width": "300",
+            "height": "168"
+          }
+        ],
+        "metatags": [
+          {
+            "image": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/19a2ecee1885b502f2f8e8c3a4c7931ec308b8de.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAK2EQIJZG%2F20250919%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250919T123135Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFkaCXVzLXdlc3QtMiJHMEUCIHs8aeGnyY5L9eiXDKZck4alMOYvJcwHcEoDmNF7REmdAiEA%2F2ohtcPNJolLSjEd9Z0kX66dbAIsHD1Oh5hgL4ntaKIq7gMI0v%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDE2mm5ujR5gp0OKrZirCA5%2BFGmbtMHz%2FLurTzCMW%2FEEDc4vTUVEE%2Bq0mjZW79Kp9seE%2FFxf7bxsH7pvGufAYll5qQQf%2FPnYzrtPL4t9vmdUjLnLGlIvXNO3qvx%2BiG0RTdigDUEu3woZ6%2FrRB1sfTjWg4vxpeoDOtCCrnYWx6YzTQ%2B7xd53YyX%2FPDNMk8%2BPzAnTA2YGKfrME9eUSO%2F4UVL8r%2BKQ809T3ejObNl23n7FLuy98xB6R59Fe5qpQ4IiWsUKLMlUou1AK1c6wwoWWSgeY9xXMJUKaaCvL9Af0Zn901SW6j6rlTJJsbL5wlJ8vn%2BFmfCH6Udgpiq6syBYC9bTqvBtBaSo0JjnGLLE3aDNKX40YAvnSxen0nRv2hj4yLOZ%2Fl3sb4RbN04ILMdL0pVm2k7UJL205pDDbXW2RYDA6mPXwKaUOFu9%2B5TRfWWsMGuIdo1urkUIO3ncdpJNFnl9NUyHXVl5XE37TuzQUO9Z9ejOgeU%2B3XLocU4UZt%2Fx",
+            "og:image": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/19a2ecee1885b502f2f8e8c3a4c7931ec308b8de.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAK2EQIJZG%2F20250919%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250919T123135Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFkaCXVzLXdlc3QtMiJHMEUCIHs8aeGnyY5L9eiXDKZck4alMOYvJcwHcEoDmNF7REmdAiEA%2F2ohtcPNJolLSjEd9Z0kX66dbAIsHD1Oh5hgL4ntaKIq7gMI0v%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDE2mm5ujR5gp0OKrZirCA5%2BFGmbtMHz%2FLurTzCMW%2FEEDc4vTUVEE%2Bq0mjZW79Kp9seE%2FFxf7bxsH7pvGufAYll5qQQf%2FPnYzrtPL4t9vmdUjLnLGlIvXNO3qvx%2BiG0RTdigDUEu3woZ6%2FrRB1sfTjWg4vxpeoDOtCCrnYWx6YzTQ%2B7xd53YyX%2FPDNMk8%2BPzAnTA2YGKfrME9eUSO%2F4UVL8r%2BKQ809T3ejObNl23n7FLuy98xB6R59Fe5qpQ4IiWsUKLMlUou1AK1c6wwoWWSgeY9xXMJUKaaCvL9Af0Zn901SW6j6rlTJJsbL5wlJ8vn%2BFmfCH6Udgpiq6syBYC9bTqvBtBaSo0JjnGLLE3aDNKX40YAvnSxen0nRv2hj4yLOZ%2Fl3sb4RbN04ILMdL0pVm2k7UJL205pDDbXW2RYDA6mPXwKaUOFu9%2B5TRfWWsMGuIdo1urkUIO3ncdpJNFnl9NUyHXVl5XE37TuzQUO9Z9ejOgeU%2B3XLocU4UZt%2Fx",
+            "twitter:card": "summary_large_image",
+            "og:type": "website",
+            "og:site_name": "Y Combinator",
+            "og:image:url": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/19a2ecee1885b502f2f8e8c3a4c7931ec308b8de.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAK2EQIJZG%2F20250919%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250919T123135Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFkaCXVzLXdlc3QtMiJHMEUCIHs8aeGnyY5L9eiXDKZck4alMOYvJcwHcEoDmNF7REmdAiEA%2F2ohtcPNJolLSjEd9Z0kX66dbAIsHD1Oh5hgL4ntaKIq7gMI0v%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDE2mm5ujR5gp0OKrZirCA5%2BFGmbtMHz%2FLurTzCMW%2FEEDc4vTUVEE%2Bq0mjZW79Kp9seE%2FFxf7bxsH7pvGufAYll5qQQf%2FPnYzrtPL4t9vmdUjLnLGlIvXNO3qvx%2BiG0RTdigDUEu3woZ6%2FrRB1sfTjWg4vxpeoDOtCCrnYWx6YzTQ%2B7xd53YyX%2FPDNMk8%2BPzAnTA2YGKfrME9eUSO%2F4UVL8r%2BKQ809T3ejObNl23n7FLuy98xB6R59Fe5qpQ4IiWsUKLMlUou1AK1c6wwoWWSgeY9xXMJUKaaCvL9Af0Zn901SW6j6rlTJJsbL5wlJ8vn%2BFmfCH6Udgpiq6syBYC9bTqvBtBaSo0JjnGLLE3aDNKX40YAvnSxen0nRv2hj4yLOZ%2Fl3sb4RbN04ILMdL0pVm2k7UJL205pDDbXW2RYDA6mPXwKaUOFu9%2B5TRfWWsMGuIdo1urkUIO3ncdpJNFnl9NUyHXVl5XE37TuzQUO9Z9ejOgeU%2B3XLocU4UZt%2Fx",
+            "og:title": "Approval AI: One-click mortgage: AI shops, negotiates, and handles your application | Y Combinator",
+            "csrf-param": "authenticity_token",
+            "title": "Approval AI: One-click mortgage: AI shops, negotiates, and handles your application",
+            "og:description": "One-click mortgage: AI shops, negotiates, and handles your application. Founded in 2025 by Arjun Lalwani and Helly Shah, Approval AI has 2 employees based in San Francisco, CA, USA.",
+            "twitter:image": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/19a2ecee1885b502f2f8e8c3a4c7931ec308b8de.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAK2EQIJZG%2F20250919%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250919T123135Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFkaCXVzLXdlc3QtMiJHMEUCIHs8aeGnyY5L9eiXDKZck4alMOYvJcwHcEoDmNF7REmdAiEA%2F2ohtcPNJolLSjEd9Z0kX66dbAIsHD1Oh5hgL4ntaKIq7gMI0v%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDE2mm5ujR5gp0OKrZirCA5%2BFGmbtMHz%2FLurTzCMW%2FEEDc4vTUVEE%2Bq0mjZW79Kp9seE%2FFxf7bxsH7pvGufAYll5qQQf%2FPnYzrtPL4t9vmdUjLnLGlIvXNO3qvx%2BiG0RTdigDUEu3woZ6%2FrRB1sfTjWg4vxpeoDOtCCrnYWx6YzTQ%2B7xd53YyX%2FPDNMk8%2BPzAnTA2YGKfrME9eUSO%2F4UVL8r%2BKQ809T3ejObNl23n7FLuy98xB6R59Fe5qpQ4IiWsUKLMlUou1AK1c6wwoWWSgeY9xXMJUKaaCvL9Af0Zn901SW6j6rlTJJsbL5wlJ8vn%2BFmfCH6Udgpiq6syBYC9bTqvBtBaSo0JjnGLLE3aDNKX40YAvnSxen0nRv2hj4yLOZ%2Fl3sb4RbN04ILMdL0pVm2k7UJL205pDDbXW2RYDA6mPXwKaUOFu9%2B5TRfWWsMGuIdo1urkUIO3ncdpJNFnl9NUyHXVl5XE37TuzQUO9Z9ejOgeU%2B3XLocU4UZt%2Fx",
+            "og:image:secure_url": "https://bookface-images.s3.us-west-2.amazonaws.com/logos/19a2ecee1885b502f2f8e8c3a4c7931ec308b8de.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=ASIAQC4NIECAK2EQIJZG%2F20250919%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20250919T123135Z&X-Amz-Expires=3600&X-Amz-Security-Token=IQoJb3JpZ2luX2VjEFkaCXVzLXdlc3QtMiJHMEUCIHs8aeGnyY5L9eiXDKZck4alMOYvJcwHcEoDmNF7REmdAiEA%2F2ohtcPNJolLSjEd9Z0kX66dbAIsHD1Oh5hgL4ntaKIq7gMI0v%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgwwMDYyMDE4MTEwNzIiDE2mm5ujR5gp0OKrZirCA5%2BFGmbtMHz%2FLurTzCMW%2FEEDc4vTUVEE%2Bq0mjZW79Kp9seE%2FFxf7bxsH7pvGufAYll5qQQf%2FPnYzrtPL4t9vmdUjLnLGlIvXNO3qvx%2BiG0RTdigDUEu3woZ6%2FrRB1sfTjWg4vxpeoDOtCCrnYWx6YzTQ%2B7xd53YyX%2FPDNMk8%2BPzAnTA2YGKfrME9eUSO%2F4UVL8r%2BKQ809T3ejObNl23n7FLuy98xB6R59Fe5qpQ4IiWsUKLMlUou1AK1c6wwoWWSgeY9xXMJUKaaCvL9Af0Zn901SW6j6rlTJJsbL5wlJ8vn%2BFmfCH6Udgpiq6syBYC9bTqvBtBaSo0JjnGLLE3aDNKX40YAvnSxen0nRv2hj4yLOZ%2Fl3sb4RbN04ILMdL0pVm2k7UJL205pDDbXW2RYDA6mPXwKaUOFu9%2B5TRfWWsMGuIdo1urkUIO3ncdpJNFnl9NUyHXVl5XE37TuzQUO9Z9ejOgeU%2B3XLocU4UZt%2Fx",
+            "twitter:site": "@ycombinator",
+            "viewport": "initial-scale=1, width=device-width, height=device-height",
+            "csrf-token": "fLRoah3RC9rW5WKXASDXOYjT3oi3EUiG_62PkHSMVwxUudlh2k68ipJQJgmWfwR6NmR6p3DDO4FXksr4DnAWxQ",
+            "og:locale": "en_US",
+            "og:url": "https://www.ycombinator.com/companies/approval-ai"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://i.ytimg.com/vi/bcmC6xe9nUA/maxresdefault.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "AI-Powered Home Loan & Mortgage Assistance - Approval AI",
+      "htmlTitle": "AI-Powered Home Loan & Mortgage Assistance - Approval AI",
+      "link": "https://www.getapproval.ai/blog",
+      "displayLink": "www.getapproval.ai",
+      "snippet": "Approval AI uses artificial intelligence to simplify your mortgage journey. Fill one form, let AI shop lenders, negotiate rates, and enjoy a spam-free ...",
+      "htmlSnippet": "\u003cb\u003eApproval AI\u003c/b\u003e uses \u003cb\u003eartificial intelligence\u003c/b\u003e to simplify your mortgage journey. Fill one form, let \u003cb\u003eAI\u003c/b\u003e shop lenders, negotiate rates, and enjoy a spam-free&nbsp;...",
+      "formattedUrl": "https://www.getapproval.ai/blog",
+      "htmlFormattedUrl": "https://www.get\u003cb\u003eapproval\u003c/b\u003e.\u003cb\u003eai\u003c/b\u003e/blog",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLbbcH74gBnhU-SEaLWojKv6UCWWVkR83ZjqSrwCSmpX2uSy_8yGmuGXA&s",
+            "width": "242",
+            "height": "209"
+          }
+        ],
+        "metatags": [
+          {
+            "og:image": "https://getapproval.ai/white_illustration.svg",
+            "theme-color": "#ffffff",
+            "og:image:width": "800",
+            "twitter:card": "summary_large_image",
+            "og:site_name": "Approval AI",
+            "apple-mobile-web-app-title": "Approval AI",
+            "og:description": "Approval AI uses artificial intelligence to simplify your mortgage journey. Fill one form, let AI shop lenders, negotiate rates, and enjoy a spam-free process. Find your best home loan today!",
+            "twitter:creator": "@approval_ai",
+            "twitter:image": "https://getapproval.ai/white_illustration.svg",
+            "background-color": "#ffffff",
+            "twitter:image:alt": "Approval AI: AI-Powered Home Loan & Mortgage Assistance - Visual Representation",
+            "twitter:site": "@approval_ai",
+            "msapplication-tilecolor": "#ffffff",
+            "og:background": "#ffffff",
+            "og:image:alt": "Approval AI: AI-Powered Home Loan & Mortgage Assistance - Visual Representation",
+            "og:type": "website",
+            "twitter:title": "Approval AI: AI-Powered Home Loan & Mortgage Assistance",
+            "og:title": "Approval AI: AI-Powered Home Loan & Mortgage Assistance",
+            "og:image:height": "600",
+            "apple-mobile-web-app-status-bar-style": "default",
+            "viewport": "width=device-width, initial-scale=1",
+            "twitter:description": "Approval AI uses artificial intelligence to simplify your mortgage journey. Fill one form, let AI shop lenders, negotiate rates, and enjoy a spam-free process. Find your best home loan today!",
+            "mobile-web-app-capable": "yes",
+            "og:locale": "en_US",
+            "format-detection": "telephone=no, date=no, address=no, email=no, url=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://www.getapproval.ai/_next/image?url=%2Fimages%2Fillustrations%2Fillustration.png&w=1200&q=75"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Does your company let your engineers use AI tools like Copilot or ...",
+      "htmlTitle": "Does your company let your engineers use \u003cb\u003eAI\u003c/b\u003e tools like Copilot or ...",
+      "link": "https://www.reddit.com/r/learnmachinelearning/comments/180r9tx/does_your_company_let_your_engineers_use_ai_tools/",
+      "displayLink": "www.reddit.com",
+      "snippet": "Nov 21, 2023 ... Most big companies wouldn't allow copilot to be installed on their machines without pre approval. ... origin. On a side note, we've also ...",
+      "htmlSnippet": "Nov 21, 2023 \u003cb\u003e...\u003c/b\u003e Most big companies wouldn&#39;t allow copilot to be installed on their machines without pre \u003cb\u003eapproval\u003c/b\u003e. ... \u003cb\u003eorigin\u003c/b\u003e. On a side note, we&#39;ve also&nbsp;...",
+      "formattedUrl": "https://www.reddit.com/.../does_your_company_let_your_engineers_use_ai...",
+      "htmlFormattedUrl": "https://www.reddit.com/.../does_your_company_let_your_engineers_use_\u003cb\u003eai\u003c/b\u003e...",
+      "pagemap": {
+        "metatags": [
+          {
+            "og:image": "https://share.redd.it/preview/post/180r9tx",
+            "theme-color": "#000000",
+            "og:image:width": "1200",
+            "og:type": "website",
+            "og:image:alt": "An image containing a preview of the post",
+            "twitter:card": "summary_large_image",
+            "twitter:title": "r/learnmachinelearning on Reddit: Does your company let your engineers use AI tools like Copilot or ChatGPT?",
+            "og:site_name": "Reddit",
+            "og:title": "r/learnmachinelearning on Reddit: Does your company let your engineers use AI tools like Copilot or ChatGPT?",
+            "og:image:height": "630",
+            "msapplication-navbutton-color": "#000000",
+            "og:description": "Posted by u/Psychological_March2 - 104 votes and 96 comments",
+            "twitter:image": "https://share.redd.it/preview/post/180r9tx",
+            "apple-mobile-web-app-status-bar-style": "black",
+            "twitter:site": "@reddit",
+            "viewport": "width=device-width, initial-scale=1, viewport-fit=cover",
+            "apple-mobile-web-app-capable": "yes",
+            "og:ttl": "600",
+            "og:url": "https://www.reddit.com/r/learnmachinelearning/comments/180r9tx/does_your_company_let_your_engineers_use_ai_tools/?seeker-session=true"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Office of Artificial Intelligence",
+      "htmlTitle": "Office of \u003cb\u003eArtificial Intelligence\u003c/b\u003e",
+      "link": "https://ai.georgia.gov/",
+      "displayLink": "ai.georgia.gov",
+      "snippet": "The Georgia Technology Authority plays a lead role in state government's information technology enterprise. GTA establishes statewide policies for ...",
+      "htmlSnippet": "The Georgia Technology Authority plays a lead role in state government&#39;s information technology enterprise. GTA establishes statewide policies for&nbsp;...",
+      "formattedUrl": "https://ai.georgia.gov/",
+      "htmlFormattedUrl": "https://\u003cb\u003eai\u003c/b\u003e.georgia.gov/",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNjgCsW0WeDe7R8pZwXhPr64KF1w9qnnko0mz-WwLRAzJu3SWd7j05wA&s",
+            "width": "310",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffc40d",
+            "og:image": "https://ai.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+            "og:image:width": "1201",
+            "twitter:card": "summary",
+            "twitter:title": "Office of Artificial Intelligence",
+            "theme-color": "#ffffff",
+            "og:site_name": "Office of Artificial Intelligence",
+            "handheldfriendly": "true",
+            "og:title": "Office of Artificial Intelligence",
+            "og:image:height": "629",
+            "twitter:image": "https://ai.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "The Georgia Technology Authority plays a lead role in state government’s information technology enterprise. GTA establishes statewide policies for technology",
+            "mobileoptimized": "width",
+            "og:url": "https://ai.georgia.gov/",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://ai.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "FDA-Approved Artificial Intelligence and Machine Learning (AI/ML ...",
+      "htmlTitle": "FDA-\u003cb\u003eApproved Artificial Intelligence\u003c/b\u003e and Machine Learning (\u003cb\u003eAI\u003c/b\u003e/ML ...",
+      "link": "https://www.mdpi.com/2079-9292/13/3/498",
+      "displayLink": "www.mdpi.com",
+      "snippet": "Schematic representation of the medical device features collected for FDA-approved AI/ML-Enabled Medical Devices, https://www.fda.gov/, accessed on 14 December ...",
+      "htmlSnippet": "Schematic representation of the medical device features collected for FDA-\u003cb\u003eapproved AI\u003c/b\u003e/ML-Enabled Medical Devices, \u003cb\u003ehttps\u003c/b\u003e://www.fda.gov/, accessed on 14 December&nbsp;...",
+      "formattedUrl": "https://www.mdpi.com/2079-9292/13/3/498",
+      "htmlFormattedUrl": "https://www.mdpi.com/2079-9292/13/3/498",
+      "pagemap": {
+        "metatags": [
+          {
+            "dc.publisher": "Multidisciplinary Digital Publishing Institute",
+            "prism.startingpage": "498",
+            "citation_publication_date": "2024/1",
+            "theme-color": "#ffffff",
+            "citation_title": "FDA-Approved Artificial Intelligence and Machine Learning (AI/ML)-Enabled Medical Devices: An Updated Landscape",
+            "citation_publisher": "Multidisciplinary Digital Publishing Institute",
+            "citation_journal_title": "Electronics",
+            "dc.rights": "http://creativecommons.org/licenses/by/3.0/",
+            "dc.format": "application/pdf",
+            "sso-service": "mdpi",
+            "prism.publicationdate": "2024-01-24",
+            "msapplication-tileimage": "https://pub.mdpi-res.com/img/journals/electronics-logo-sq.png?b6654bbea3038534",
+            "title": "FDA-Approved Artificial Intelligence and Machine Learning (AI/ML)-Enabled Medical Devices: An Updated Landscape",
+            "prism.issn": "2079-9292",
+            "citation_online_date": "2024/01/24",
+            "prism.number": "3",
+            "citation_issn": "2079-9292",
+            "dc.type": "Article",
+            "dc.source": "Electronics 2024, Vol. 13, Page 498",
+            "dc.creator": "Geeta Joshi",
+            "application-name": " ",
+            "prism.publicationname": "Electronics",
+            "dc.description": "As artificial intelligence (AI) has been highly advancing in the last decade, machine learning (ML)-enabled medical devices are increasingly used in healthcare. In this study, we collected publicly available information on AI/ML-enabled medical devices approved by the FDA in the United States, as of the latest update on 19 October 2023. We performed comprehensive analysis of a total of 691 FDA-approved artificial intelligence and machine learning (AI/ML)-enabled medical devices and offer an in-depth analysis of clearance pathways, approval timeline, regulation type, medical specialty, decision type, recall history, etc. We found a significant surge in approvals since 2018, with clear dominance of the radiology specialty in the application of machine learning tools, attributed to the abundant data from routine clinical data. The study also reveals a reliance on the 510(k)-clearance pathway, emphasizing its basis on substantial equivalence and often bypassing the need for new clinical trials. Also, it notes an ",
+            "citation_author": "Joshi, Geeta",
+            "dc.date": "2024-01-24",
+            "citation_issue": "3",
+            "prism.volume": "13",
+            "citation_firstpage": "498",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "dc.title": "FDA-Approved Artificial Intelligence and Machine Learning (AI/ML)-Enabled Medical Devices: An Updated Landscape",
+            "dc.identifier": "10.3390/electronics13030498",
+            "dc.subject": "machine learning",
+            "prism.section": "Article",
+            "citation_volume": "13",
+            "dc.language": "en"
+          }
+        ],
+        "scholarlyarticle": [
+          {
+            "name": "FDA-Approved Artificial Intelligence and Machine Learning (AI/ML)-Enabled Medical Devices: An Updated Landscape",
+            "publisher": "Multidisciplinary Digital Publishing Institute",
+            "url": "https://www.mdpi.com/2079-9292/13/3/498"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Multistage and AI approvals in agent flows - Microsoft Copilot Studio ...",
+      "htmlTitle": "Multistage and \u003cb\u003eAI approvals\u003c/b\u003e in agent flows - Microsoft Copilot Studio ...",
+      "link": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/flows-advanced-approvals",
+      "displayLink": "learn.microsoft.com",
+      "snippet": "Sep 4, 2025 ... From the left navigation pane, select Approvals. In the History tab, select the approval that was completed and that includes the AI stage. View ...",
+      "htmlSnippet": "Sep 4, 2025 \u003cb\u003e...\u003c/b\u003e From the left navigation pane, select \u003cb\u003eApprovals\u003c/b\u003e. In the \u003cb\u003eHistory\u003c/b\u003e tab, select the \u003cb\u003eapproval\u003c/b\u003e that was completed and that includes the \u003cb\u003eAI\u003c/b\u003e stage. View&nbsp;...",
+      "formattedUrl": "https://learn.microsoft.com/en-us/microsoft.../flows-advanced-approvals",
+      "htmlFormattedUrl": "https://learn.microsoft.com/en-us/microsoft.../flows-advanced-\u003cb\u003eapproval\u003c/b\u003es",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTamiYiZkfXbLeih3vADC8SZH3wbbrq_92KFEfjeYjdTxr8-Z0AtOhIt4cS&s",
+            "width": "310",
+            "height": "163"
+          }
+        ],
+        "organization": [
+          {
+            "url": "Learn"
+          }
+        ],
+        "metatags": [
+          {
+            "schema": "Conceptual",
+            "og:image": "https://learn.microsoft.com/en-us/media/open-graph-image.png",
+            "twitter:card": "summary_large_image",
+            "ms.collection": "bap-ai-copilot",
+            "page_type": "conceptual",
+            "ms.topic": "how-to",
+            "ms.author": "derahonuorah",
+            "ms.custom": "ai-gen-docs-bap",
+            "item_type": "Content",
+            "asset_id": "flows-advanced-approvals",
+            "locale": "en-us",
+            "document_id": "fd29d388-354f-4b0b-cac8-368ec97bfeaf",
+            "og:description": "Learn about multistage approvals in agent flows.",
+            "feedback_product_url": "https://powerusers.microsoft.com/t5/Power-Virtual-Agents-Community/ct-p/PVACommunity",
+            "recommendations": "true",
+            "ms.date": "2025-09-04T00:00:00Z",
+            "search.app": "capaedac-pva",
+            "ms.service": "copilot-studio",
+            "depot_name": "Learn.copilot-studio",
+            "github_feedback_content_git_url": "https://github.com/MicrosoftDocs/businessapps-copilot-docs-pr/blob/live/copilot-studio/flows-advanced-approvals.md",
+            "adobe-target": "true",
+            "word_count": "3675",
+            "twitter:site": "@MicrosoftLearn",
+            "updated_at": "2025-09-24T19:00:00Z",
+            "ms.reviewer": "cyanderson",
+            "previous_tlsh_hash": "B23852B2920CC650BF951E22594BAE4C7AF4C14D79E05EC8C121E4A3F10BFDA26B5658FFEB3FE60633BA045B008DBB5E87D7DF24D02C13571B6280B980E96792E62927B5E5",
+            "scope": "Microsoft Copilot Studio",
+            "original_content_git_url": "https://github.com/MicrosoftDocs/businessapps-copilot-docs-pr/blob/live/copilot-studio/flows-advanced-approvals.md",
+            "og:type": "website",
+            "og:image:alt": "Microsoft Learn",
+            "ms.update-cycle": "180-days",
+            "git_commit_id": "e464fc2e80986e5dd53c7ca19d12e17b745c23c3",
+            "author": "donums",
+            "og:title": "Multistage and AI approvals in agent flows - Microsoft Copilot Studio",
+            "color-scheme": "light dark",
+            "feedback_system": "Standard",
+            "site_name": "Docs",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "breadcrumb_path": "/microsoft-copilot-studio/breadcrumb/toc.json",
+            "document_version_independent_id": "fd29d388-354f-4b0b-cac8-368ec97bfeaf",
+            "platform_id": "cc432528-419b-8929-9ebd-4346c8832fb1",
+            "source_path": "copilot-studio/flows-advanced-approvals.md",
+            "cmproducts": "https://authoring-docs-microsoft.poolparty.biz/devrel/1ae5c491-970a-4062-8301-6336e69f9026",
+            "og:url": "https://learn.microsoft.com/en-us/microsoft-copilot-studio/flows-advanced-approvals",
+            "uhfheaderid": "MSDocsHeader-MicrosoftCopilotStudio",
+            "toc_rel": "toc.json",
+            "gitcommit": "https://github.com/MicrosoftDocs/businessapps-copilot-docs-pr/blob/e464fc2e80986e5dd53c7ca19d12e17b745c23c3/copilot-studio/flows-advanced-approvals.md"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://learn.microsoft.com/en-us/media/open-graph-image.png"
+          }
+        ]
+      }
+    },
+    {
+      "kind": "customsearch#result",
+      "title": "Guidance for State Organizations | Office of Artificial Intelligence",
+      "htmlTitle": "Guidance for State Organizations | Office of \u003cb\u003eArtificial Intelligence\u003c/b\u003e",
+      "link": "https://ai.georgia.gov/guidance/guidance-state-organizations",
+      "displayLink": "ai.georgia.gov",
+      "snippet": "Guidance for State Organizations · Get Approval Before You Start · Use AI Tools Safely and Properly · Be Vigilant in Virtual Meetings · Do Not Put Private Data at ...",
+      "htmlSnippet": "Guidance for State Organizations &middot; \u003cb\u003eGet Approval\u003c/b\u003e Before You Start &middot; Use \u003cb\u003eAI\u003c/b\u003e Tools Safely and Properly &middot; Be Vigilant in Virtual Meetings &middot; Do Not Put Private Data at&nbsp;...",
+      "formattedUrl": "https://ai.georgia.gov/guidance/guidance-state-organizations",
+      "htmlFormattedUrl": "https://\u003cb\u003eai\u003c/b\u003e.georgia.gov/guidance/guidance-state-organizations",
+      "pagemap": {
+        "cse_thumbnail": [
+          {
+            "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvNjgCsW0WeDe7R8pZwXhPr64KF1w9qnnko0mz-WwLRAzJu3SWd7j05wA&s",
+            "width": "310",
+            "height": "162"
+          }
+        ],
+        "metatags": [
+          {
+            "msapplication-tilecolor": "#ffc40d",
+            "og:image": "https://ai.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+            "og:image:width": "1201",
+            "twitter:card": "summary",
+            "twitter:title": "Guidance for State Organizations",
+            "theme-color": "#ffffff",
+            "og:site_name": "Office of Artificial Intelligence",
+            "handheldfriendly": "true",
+            "og:title": "Guidance for State Organizations",
+            "og:image:height": "629",
+            "og:description": "By following these guidelines, state employees can use AI responsibly, ensuring high-quality work and maintaining public trust in state-led initiatives.",
+            "twitter:image": "https://ai.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png",
+            "viewport": "width=device-width, initial-scale=1.0",
+            "twitter:description": "By following these guidelines, state employees can use AI responsibly, ensuring high-quality work and maintaining public trust in state-led initiatives.",
+            "mobileoptimized": "width",
+            "og:url": "https://ai.georgia.gov/guidance/guidance-state-organizations",
+            "format-detection": "telephone=no"
+          }
+        ],
+        "cse_image": [
+          {
+            "src": "https://ai.georgia.gov/themes/custom/ga_bloom/assets/images/social/pillars-placeholder-wide-foundation-1.png"
+          }
+        ]
+      }
+    }
+  ]
+}
