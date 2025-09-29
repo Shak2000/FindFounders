@@ -1,1 +1,56 @@
-{"Approval AI": ["Arjun Lalwani", "Helly Shah"]}
+{
+  "Approval AI": [
+    "Arjun Lalwani",
+    "Helly Shah",
+    "Paola Ballester"
+  ],
+  "Meteor": [
+    "Farhan Khan",
+    "Pranav Madhukar"
+  ],
+  "Read AI": [
+    "Here\u2019s a comma-separated list of the founders of Read AI",
+    "based on the provided information:\n\nDavid Shim",
+    "Justin Farris"
+  ],
+  "Profound": [
+    "Keith Rabois",
+    "Max Altman",
+    "Ben Braverman",
+    "Thomson Nguyen",
+    "James Cadwallader"
+  ],
+  "Wayfinder Bio": [
+    "Based on the provided text",
+    "here\u2019s a comma-separated list of the founders of Wayfinder Bio:\n\nJason Fontana \n\n(The text doesn't explicitly list other founders",
+    "only identifying Jason Fontana as the Co-founder and CEO.)"
+  ],
+  "Modulus Therapeutics": [
+    "Based on the provided text",
+    "here\u2019s a comma-separated list of the founders of Modulus Therapeutics:\n\nBryce Daines",
+    "Ph.D. \n\n**Note:** The text doesn't explicitly list all founders",
+    "but identifies Bryce Daines as a key figure \u2013 a computational biologist and AI/ML leader \u2013 suggesting he\u2019s a founder or a core member of the founding team."
+  ],
+  "Persephone Bio": [
+    "Stephanie Culler",
+    "Ph.D.",
+    "Steve Van Dien",
+    "Ph.D."
+  ],
+  "Casium": [
+    "Based on the provided text",
+    "it\u2019s difficult to definitively list the *founders* of Casium. However",
+    "we can identify individuals heavily associated with the company's history and operations:\n\nPatrick Cozzi",
+    "Iqbal Matebah"
+  ],
+  "Kernel": [
+    "Here\u2019s the comma-separated list of the founders of Kernel based on the provided text:\n\nRafael Garcia",
+    "Catherine Jue",
+    "Evin O\u2019Riordain"
+  ],
+  "Rosie": [
+    "Based on the provided text",
+    "here\u2019s the comma-separated list of the founders of Rosie:\n\nMitra Raman",
+    "Rosie Jones"
+  ]
+}
