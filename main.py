@@ -39,7 +39,9 @@ def extract_descriptions_from_json(file_path):
                         descriptions.append(description)
 
     # Concatenate all extracted strings with a newline character "\n"
-    return "\n".join(descriptions)
+    desc = "\n".join(descriptions)
+    print(desc)
+    return desc
 
 
 def find_founders(company: str, file_name: str):
