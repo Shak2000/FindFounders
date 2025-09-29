@@ -41,18 +41,25 @@ def extract_descriptions_from_json(file_path):
     return "\n".join(descriptions)
 
 
-def find_founders(company: str, url: str, file_name: str):
+def find_founders(company: str, file_name: str):
     """
-    Find the founders of a company from a given URL and text file, and save the results to a file.
+    Find the founders of a company from a given URL and text file, and return the results.
     """
     descriptions = extract_descriptions_from_json(file_name)
-    response = ollama.generate(model='gemma3:4b', prompt=f"Write a comma-separated list of the founders of {company} ({url}) using the following descriptions: {descriptions}")
+    response = ollama.generate(model='gemma3:4b', prompt=f"Write a comma-separated list of the founders of {company} using the following descriptions: {descriptions}")
     data = {
-        company: [founder.strip() for founder in response['response'].split(',')]
+        " ".join(company.split()[:-1]): [founder.strip() for founder in response['response'].split(',')]
     }
     with open('founders.json', 'w') as f:
         json.dump(data, f)
 
 
+def search_companies(file_name: str):
+    """
+    Search find the founders of the companies in the text file.
+    """
+    pass
+
+
 if __name__ == "__main__":
-    find_founders("Approval AI", "https://www.getapproval.ai/founders", "info.json")
+    find_founders("Approval AI (https://www.getapproval.ai/founders)", "info.json")
