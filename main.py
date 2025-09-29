@@ -1,4 +1,5 @@
 import json
+import ollama
 
 from config import GOOGLE_API_KEY, GOOGLE_CSE_ID
 
@@ -45,7 +46,12 @@ def find_founders(company: str, url: str, file_name: str):
     Find the founders of a company from a given URL and text file, and save the results to a file.
     """
     descriptions = extract_descriptions_from_json(file_name)
-    print(descriptions)
+    response = ollama.generate(model='gemma3:4b', prompt=f"Write a comma-separated list of the founders of {company} ({url}) using the following descriptions: {descriptions}")
+    data = {
+        company: [founder.strip() for founder in response['response'].split(',')]
+    }
+    with open('founders.json', 'w') as f:
+        json.dump(data, f)
 
 
 if __name__ == "__main__":
